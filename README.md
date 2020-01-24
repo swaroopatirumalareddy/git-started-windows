@@ -91,7 +91,7 @@ This naming convention keeps keys organized.
 
 ## Create SSH Key Pairs & Add Public Keys To Cloud Accounts
 
-Use Windows start to run PuTTYgen. Follow the instructions from the link below to create private keys that will be stored in your .ssh folder and corresponding public keys to be added to your BitBucket or GitHub accounts.
+Use Windows start to run PuTTYgen. Follow the instructions from the link below to create private keys that will be stored in your .ssh folder and corresponding public keys to be added system.
 
 - <https://github.com/RedWingedJerbear/GitSSHTuttorial>
 
